@@ -1,10 +1,12 @@
 @import url("./navbar.css");
-@import url("./carrosel.css");
-@import url("./banner__segundo.css");
+@import url("./ajuda.css");
 
 :root {
   --fonte-principal: "Lalezar";
   --azul-escuro: #36517c;
+  --azul-claro: #B6E0F6;
+  --laranja: #DEB13E;
+  --sombra: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 body {
@@ -12,3 +14,6 @@ body {
   font-size: 16px !important;
   font-weight: 400 !important;
 }
+
+
+  
