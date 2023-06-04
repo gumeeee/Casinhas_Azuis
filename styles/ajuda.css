@@ -30,6 +30,16 @@
   border-radius: 50px;
 }
 
+.ajuda__link {
+  text-decoration: none !important;
+  color: var(--branco);
+  font-size: 32px;
+  background: var(--vermelho-escuro);
+  box-shadow: var(--sombra);
+  border-radius: 15px;
+  padding: 0 40px;
+}
+
 @media screen and (max-width: 1240px) {
   .card__container {
     display: flex;
