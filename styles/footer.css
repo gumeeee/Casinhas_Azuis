@@ -1,0 +1,10 @@
+.servicos {
+  background: var(--azul-escuro);
+  margin-top: 10rem;
+}
+
+.footer__item {
+  background: var(--laranja);
+  box-shadow: var(--sombra);
+  border-radius: 15px;
+}
