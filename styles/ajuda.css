@@ -13,6 +13,24 @@
   margin: 0 auto;
 }
 
+.description {
+  width: 100px;
+  margin: 30px;
+  margin-top: 327px;
+  padding: 5px;
+}
+
+.zindex {
+  position: relative;
+  z-index: 10;
+  margin-top: -140px !important;
+  margin-left: -120px;
+}
+
+.img__description {
+  width: 400px;
+}
+
 .card__descricao {
   width: 347px;
   height: 347px;
@@ -88,5 +106,9 @@
 
   .card__ajudar {
     width: 300px;
+  }
+
+  .zindex {
+    margin-top: -100px !important;
   }
 }
