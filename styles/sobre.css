@@ -1,0 +1,16 @@
+body {
+  background-image: url("../assets/patas.svg");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.sobre__container {
+  background: var(--azul-bg-sobre);
+  border-radius: 25px;
+  border: 15px solid var(--azul-borda-sobre);
+  box-shadow: var(--sombra);
+}
+
+.sobre__imagem {
+  width: 300px;
+}
