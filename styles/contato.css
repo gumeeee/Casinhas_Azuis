@@ -1,0 +1,14 @@
+.contato__card {
+  background: var(--branco);
+  border-radius: 1rem;
+  padding: 2rem;
+  box-shadow: var(--sombra);
+}
+
+.contato__img__rede {
+  width: 200px;
+}
+
+.contato__pix {
+  width: 100px;
+}
