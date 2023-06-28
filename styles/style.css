@@ -21,3 +21,23 @@ body {
   font-size: 16px !important;
   font-weight: 400 !important;
 }
+
+.sobre__banner {
+  background-image: url('../assets/fundo-amarelo.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 768px) {
+  .img__sobre {
+    width: 220px;
+  }
+  .container__sobre {
+    display: flex;
+    flex-direction: column !important;
+    align-items: center;
+  }
+  .sobre__texto {
+    padding-top: 2rem;
+  }
+}
